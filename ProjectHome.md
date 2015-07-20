@@ -1,0 +1,1 @@
+This project is for a collection of simple programs that you might find useful, including a random password generator, a secure vault for storing your many passwords in, etc.
